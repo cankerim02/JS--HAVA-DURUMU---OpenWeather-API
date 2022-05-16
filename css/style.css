@@ -6,7 +6,7 @@
 body {
     font-family: 'montserrat', sans-serif;
     color :#fff;
-    background-image: url('/img/image.jpg');
+    background-image: url('/img/image\ copy.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -66,3 +66,5 @@ body {
     font-size: 24px;
     text-shadow: 1px 3px rgba(0, 0, 0, .8);
 }
+
+/*  */

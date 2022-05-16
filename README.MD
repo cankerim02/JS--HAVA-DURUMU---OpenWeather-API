@@ -6,5 +6,5 @@
 * Bu uygulamada öğrendiğim bilgileri kullanarak ***javascript ile open weather api*** üzerinden şehir isimlerine göre güncel hava durumlarını görüntüleyebildiğimiz bir uygulama geliştirmeye çalıştım.
 
 Aşağıdaki linke tıklayarak uygulamanın çalışır halini görebilirsiniz.
-[OpenWeather-Güncel Hava Durumu](https://twitter.com/cankeriim/status/1526276718373249030)
+[OpenWeather-Güncel Hava Durumu](https://twitter.com/cankeriim/status/1526276718373249030) 
 

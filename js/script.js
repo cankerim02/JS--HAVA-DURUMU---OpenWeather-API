@@ -33,8 +33,5 @@ const displayResult = (result) => {
     minmax.innerText =` ${Math.round(result.main.temp_min)}°C / ${Math.round(result.main.temp_max)}°C  `
 }
 
-
-
-
 const searchBar = document.getElementById('searchBar')
 searchBar.addEventListener('keypress', setQuery)
